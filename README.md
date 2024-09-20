@@ -28,7 +28,3 @@ To deploy and test the contract locally:
 1. Clone this repository.
 2. Install required dependencies by running `npm install`.
 3. Execute the tests using `npx hardhat test`.
-
---- 
-
-This version retains the same information but is phrased differently.
