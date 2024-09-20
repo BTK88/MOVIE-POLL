@@ -1,5 +1,5 @@
 
-# 🎥🍿 MOVIE POLL INL MNING 🎥🍿  
+# 🎥🍿 MOVIE POLL INLÄMNING 🎥🍿  
 ## 🚀 The Ultimate Guide to Movie Voting! 🚀
 
 ## 📚 Table of Contents
@@ -59,7 +59,7 @@ Alright, strap in and follow these steps to install this masterpiece:
 1. **🚀 Deploy the Contract**: Make sure you're on a testnet, because if you deploy this on mainnet accidentally, you'll be the star of a very embarrassing Reddit thread. 😱
 
     ```bash
-    npx hardhat run --network rinkeby scripts/deploy.ts
+    npx hardhat run 
     ```
 
 2. **🎥 Vote for a Movie**: Propose, vote, and maybe bribe others to vote for your movie choice. 💵 Voting is simple, unless you have no friends, in which case it might be a bit lonely. 😢
