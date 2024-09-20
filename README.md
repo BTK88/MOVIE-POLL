@@ -17,7 +17,7 @@
 12. [🔮 The Meaning of Life](#the-meaning-of-life)
 
 ## 🎬 Project Overview
-Welcome to the **"MOVIE POLL INL MNING"** project, the zenith of blockchain-based movie voting solutions! 🎉 We have created this *earth-shattering* smart contract application because let's face it: what humanity needs more than anything right now is a decentralized way to vote for movies. 🍿 We could have solved world hunger or invented teleportation, but no, we chose movies. And you're welcome! 😎
+Welcome to the **"MOVIE POLL INLÄMNING"** project, the zenith of blockchain-based movie voting solutions! 🎉 We have created this *earth-shattering* smart contract application because let's face it: what humanity needs more than anything right now is a decentralized way to vote for movies. 🍿 We could have solved world hunger or invented teleportation, but no, we chose movies. And you're welcome! 😎
 
 ### What Does This Do?
 It's a blockchain-based movie voting system, of course! 📊 You can propose, vote, and fight with your friends over which movie should be watched next. 🍿 And it's decentralized, so it's basically the future. 🚀 Or at least it will be once everyone learns how to use MetaMask. 🦊
